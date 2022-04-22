@@ -1,6 +1,6 @@
 {
-    "name": "Notetaker",
-    "short_name": "Notetaker",
+    "name": "PWA_Budget-Tracker",
+    "short_name": "Budget-Tracker",
     "icons": [
       {
         "src": "/icons/icon-72x72.png",

@@ -9,7 +9,7 @@ const request = indexedDB.open('PWA_Budget-Tracker', 1);
 
 request.onupgradeneeded = function(event) {
   const db = event.target.result;
-  db.createObjectStore('PWA_Budget-Tracker', { autoIncrement: true });
+  db.createObjectStore('new_transaction', { autoIncrement: true });
 };
 
 request.onsuccess = function(event) {
@@ -18,7 +18,7 @@ request.onsuccess = function(event) {
 
   // check if app is online, if yes run checkDatabase() function to send all local db data to api
   if (navigator.onLine) {
-    uploadPizza();
+    uploadTransaction();
   }
 };
 
