@@ -21,6 +21,6 @@ https://github.com/ragil1114/PWA_Budget-Tracker.git
 https://budget-tracker1114.herokuapp.com/
 
 ## Images
-![demo](https://github.com/ragil1114/PWA_Budget-Tracker/blob/Develop/public/images/demo.png)
-![demo2](https://github.com/ragil1114/PWA_Budget-Tracker/blob/Develop/public/images/demo2.png)
+![demo](https://github.com/ragil1114/PWA_Budget-Tracker/blob/main/Develop/public/images/demo.png)
+![demo2](https://github.com/ragil1114/PWA_Budget-Tracker/blob/main/Develop/public/images/demo2.png)
 
